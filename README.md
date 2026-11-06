@@ -16,6 +16,8 @@
   🎯 Dream: To Become a Professional Data Analyst
 </p>
 
+
+
 <h2 align="center">🎓 EDUCATION</h2>
 
 <p align="center">
@@ -31,7 +33,11 @@
   2nd Year | Expected Graduation: 2028
 </p>
 
+
+
 <h2 align="center">💻 TECHNICAL SKILLS</h2>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -40,3 +46,28 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/MS--DOS-000000?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </p>
+
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+
+<table align="center">
+<tr>
+<td width="100%">
+<h3 align="center">🛒 FreshMart Excel Dashboard</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge"/>
+</p>
+<p align="center">
+  An Excel dashboard project focused on revenue,
+  estimated profit, sales and business insights.
+</p>
+<p align="center">
+  <a href="https://github.com/p05158442-droid/Freshmart-Excel-Dashboard">
+    <b>🔗 VIEW PROJECT</b>
+  </a>
+</p>
+</td>
+</tr>
+</table>
