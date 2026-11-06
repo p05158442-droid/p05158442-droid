@@ -161,19 +161,63 @@
 </tr>
 </table>
 
-<h2 align="center">🎓 CERTIFICATIONS & LEARNING</h2>
+<h2 align="center">🎓 CERTIFICATIONS & ACHIEVEMENTS</h2>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<h3>📊 Business Analytics</h3>
+<b>Break Into Business Analytics to Earn $20 LPA</b>
+<br>
+WsCube Tech
+<br>
+<sub>Instructor: Kushagra Bhatia</sub>
+</td>
+
+<td width="50%" align="center">
+<h3>🤖 Generative AI</h3>
+<b>Generative AI Literacy</b>
+<br>
+Simplilearn SkillUp
+<br>
+<sub>Issued: 12 September</sub>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ SQL & Databases</h3>
+<b>SQL and Relational Databases 101</b>
+<br>
+CognitiveClass.ai
+<br>
+<sub>Issued: 29 July 2026</sub>
+</td>
+
+<td width="50%" align="center">
+<h3>💻 Advanced SQL</h3>
+<b>SQL Programming Constructs and Stored Functions</b>
+<br>
+upGrad
+<br>
+<sub>Issued: 28 April 2026</sub>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<h3>📈 SQL for Data Science</h3>
+<b>SQL for Data Science</b>
+<br>
+Simplilearn SkillUp
+<br>
+<sub>Issued: 16 April 2026</sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced_SQL-upGrad-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL_Certificate-Simplilearn-FF69B4?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  🌱 Currently Learning
-</p>
-
-<p align="center">
-  Excel • SQL • Python • Power BI
+  <i>Every certificate represents a step forward in my learning journey. 💜</i>
 </p>
 
 <p align="center">
