@@ -160,3 +160,23 @@
 </td>
 </tr>
 </table>
+
+<h2 align="center">🎓 CERTIFICATIONS & LEARNING</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_SQL-upGrad-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL_Certificate-Simplilearn-FF69B4?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  🌱 Currently Learning
+</p>
+
+<p align="center">
+  Excel • SQL • Python • Power BI
+</p>
+
+<p align="center">
+  <i>Building skills today, creating opportunities tomorrow.</i> ✨
+</p>
+
