@@ -16,7 +16,20 @@
   🎯 Dream: To Become a Professional Data Analyst
 </p>
 
+<h2 align="center">🎓 EDUCATION</h2>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Degree-BCA-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence-pink?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Zenex Vision Degree College</b>
+  <br>
+  BCA – Artificial Intelligence
+  <br>
+  2nd Year | Expected Graduation: 2028
+</p>
 
 <h2 align="center">🌈 MY TECH TOOLKIT</h2>
 
