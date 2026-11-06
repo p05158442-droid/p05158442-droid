@@ -103,6 +103,14 @@
 
 <h3 align="center">✨ THANK YOU FOR VISITING MY PROFILE ✨</h3>
 
+
+<h2 align="center">🐍 MY CONTRIBUTION SNAKE 🐍</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/p05158442-droid/p05158442-droid/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+
 <p align="center">
   <i>"Learning every day. Growing every step."</i> 💜
 </p>
