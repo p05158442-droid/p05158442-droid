@@ -241,6 +241,13 @@ Issued: 16 April 2026
 </tr>
 </table>
 
+<h2 align="center">👀 PROFILE VISITORS</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=p05158442-droid&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Visitors"/>
+</p>
+
+
 <p align="center">
   <i>Every skill learned is a step towards my Data Analyst career. 💜</i>
 </p>
