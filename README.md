@@ -71,3 +71,8 @@
 </td>
 </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=p05158442-droid&theme=midnight-purple&hide_border=true&border_radius=15&background=171329&ring=FF70C8&fire=8CEBFA&currStreakLabel=FFB8E8&sideLabels=C9B6FF&dates=A99BCB" width="75%" />
+</p>
