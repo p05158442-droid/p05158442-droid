@@ -127,3 +127,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=p05158442-droid&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
 </p>
+
+
+
+<h2 align="center">📈 MY CONTRIBUTION ACTIVITY</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p05158442-droid&bg_color=171329&color=DA8BFF&line=FF70C8&point=8CEBFA&area=true&hide_border=true&custom_title=Pavani's%20GitHub%20Activity" width="100%" />
+</p>
