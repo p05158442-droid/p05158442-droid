@@ -1,3 +1,23 @@
+<h2 align="center">💜 ABOUT ME 💜</h2>
+
+<p align="center">
+  Hello! I'm <b>Pavani Naralasetty</b> 👋
+  <br><br>
+  🎓 BCA 2nd Year Student – Artificial Intelligence
+  <br>
+  📊 Aspiring Data Analyst
+  <br>
+  🌱 Learning Excel, SQL, Python & Power BI
+  <br>
+  🔍 Exploring Data and Discovering Insights
+  <br>
+  💻 Building Real-World Data Analysis Projects
+  <br>
+  🎯 Dream: To Become a Professional Data Analyst
+</p>
+
+
+
 <h2 align="center">🌈 MY TECH TOOLKIT</h2>
 
 <p align="center">
