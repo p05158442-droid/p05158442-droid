@@ -161,11 +161,12 @@
 </tr>
 </table>
 
+
 ```html
-<h2 align="center">🎓 MY CERTIFICATIONS</h2>
+<h2 align="center">🎓 MY CERTIFICATIONS & ACHIEVEMENTS</h2>
 
 <p align="center">
-  <i>Continuous Learning | Skill Development | Career Growth</i>
+  <i>Learning Today • Growing Tomorrow</i>
 </p>
 
 <table align="center">
@@ -173,21 +174,26 @@
 <td align="center" width="50%">
 <h3>📊 Business Analytics</h3>
 <b>Break Into Business Analytics to Earn $20 LPA</b>
-<br>WsCube Tech
-<br><sub>Instructor: Kushagra Bhatia</sub>
 <br><br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7517359066973868032/" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<b>WsCube Tech</b>
+<br>
+Instructor: Kushagra Bhatia
+<br><br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7517359066973868032/">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
+
 <td align="center" width="50%">
 <h3>🤖 Generative AI</h3>
 <b>Generative AI Literacy</b>
-<br>Simplilearn SkillUp
-<br><sub>Issued: 12 September</sub>
 <br><br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7489001909794758656/" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<b>Simplilearn SkillUp</b>
+<br>
+Issued: 12 September
+<br><br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7489001909794758656/">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -196,21 +202,26 @@
 <td align="center" width="50%">
 <h3>🗄️ SQL & Databases</h3>
 <b>SQL and Relational Databases 101</b>
-<br>CognitiveClass.ai
-<br><sub>Issued: 29 July 2026</sub>
 <br><br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7514842547752648704/" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<b>CognitiveClass.ai</b>
+<br>
+Issued: 29 July 2026
+<br><br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7514842547752648704/">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-00B8D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
+
 <td align="center" width="50%">
 <h3>💻 Advanced SQL</h3>
 <b>SQL Programming Constructs and Stored Functions</b>
-<br>upGrad
-<br><sub>Issued: 28 April 2026</sub>
 <br><br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7455100931618033664/" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<b>upGrad</b>
+<br>
+Issued: 28 April 2026
+<br><br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7455100931618033664/">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 </tr>
@@ -219,18 +230,20 @@
 <td colspan="2" align="center">
 <h3>📈 SQL for Data Science</h3>
 <b>SQL for Data Science</b>
-<br>Simplilearn SkillUp
-<br><sub>Issued: 16 April 2026</sub>
 <br><br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7450509217418985472/" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<b>Simplilearn SkillUp</b>
+<br>
+Issued: 16 April 2026
+<br><br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7450509217418985472/">
+<img src="https://img.shields.io/badge/VIEW_CERTIFICATE-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <i>Every certificate represents a step forward in my learning journey. 💜</i>
+  <i>Every skill learned is a step towards my Data Analyst career. 💜</i>
 </p>
 ```
 
