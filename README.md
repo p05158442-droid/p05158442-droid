@@ -119,3 +119,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=25&pause=1000&color=DA8BFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Pavani+Naralasetty!;Aspiring+Data+Analyst;Turning+Data+into+Insights;Learning+Excel+%7C+SQL+%7C+Python+%7C+Power+BI" />
 </p>
+
+
+
+<h2 align="center">🏆 GITHUB TROPHIES</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=p05158442-droid&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+</p>
