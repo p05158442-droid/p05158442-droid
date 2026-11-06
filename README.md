@@ -162,7 +162,6 @@
 </table>
 
 
-```html
 <h2 align="center">🎓 MY CERTIFICATIONS & ACHIEVEMENTS</h2>
 
 <p align="center">
@@ -245,8 +244,6 @@ Issued: 16 April 2026
 <p align="center">
   <i>Every skill learned is a step towards my Data Analyst career. 💜</i>
 </p>
-```
-
 <p align="center">
   <i>Building skills today, creating opportunities tomorrow.</i> ✨
 </p>
