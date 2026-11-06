@@ -17,21 +17,33 @@
 </p>
 
 
-
 <h2 align="center">🎓 EDUCATION</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-BCA-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Specialization-Artificial%20Intelligence-pink?style=for-the-badge"/>
+  <a href="https://www.zenexvision.edu.in/">
+    <img src="https://www.zenexvision.edu.in/assets/images/corrosil3.jpg"
+         width="85%" alt="Zenex Vision Degree College Campus"/>
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://www.zenexvision.edu.in/">
+    ZENEX VISION DEGREE COLLEGE
+  </a>
+</h3>
+
+<p align="center">
+  BCA – Artificial Intelligence<br>
+  2nd Year | Expected Graduation: 2028<br>
+  Nellore, Andhra Pradesh
 </p>
 
 <p align="center">
-  <b>Zenex Vision Degree College</b>
-  <br>
-  BCA – Artificial Intelligence
-  <br>
-  2nd Year | Expected Graduation: 2028
+  <a href="https://www.zenexvision.edu.in/">
+    🌐 VISIT COLLEGE WEBSITE
+  </a>
 </p>
+
 
 
 
