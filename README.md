@@ -108,3 +108,6 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=25&pause=1000&color=DA8BFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Pavani+Naralasetty!;Aspiring+Data+Analyst;Turning+Data+into+Insights;Learning+Excel+%7C+SQL+%7C+Python+%7C+Power+BI" />
+</p>
