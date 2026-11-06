@@ -34,7 +34,15 @@
   - 🌐 GitHub: [Visit My GitHub Profile](https://github.com/p05158442-droid)
   - 
 
+## 📊 My GitHub Statistics
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=p05158442-droid&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=p05158442-droid&theme=tokyonight" />
+</p>
 
 ✨ *Learning Every Day. Growing Every Day!*
 
