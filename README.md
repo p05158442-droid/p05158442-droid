@@ -248,6 +248,76 @@ Issued: 16 April 2026
 </p>
 
 
+<h2 align="center">🚀 MY DATA ANALYST INTERNSHIP JOURNEY</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO-Data_Analyst_Internship-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/READY_TO-LEARN_&_GROW-FF69B4?style=for-the-badge"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h3>📊 What I'm Preparing For</h3>
+Excel • SQL • Python
+<br>
+Power BI • Data Visualization
+</td>
+<td align="center" width="50%">
+<h3>💼 What I Want to Experience</h3>
+Real-World Datasets
+<br>
+Business Problems
+<br>
+Team Collaboration
+</td>
+</tr>
+</table>
+
+
+<h2 align="center">🚀 MY DATA ANALYST INTERNSHIP JOURNEY</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN_TO-Data_Analyst_Internship-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/READY_TO-LEARN_&_GROW-FF69B4?style=for-the-badge"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h3>📊 What I'm Preparing For</h3>
+Excel • SQL • Python
+<br>
+Power BI • Data Visualization
+</td>
+<td align="center" width="50%">
+<h3>💼 What I Want to Experience</h3>
+Real-World Datasets
+<br>
+Business Problems
+<br>
+Team Collaboration
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <b>My Goal</b>
+  <br>
+  To turn my learning into practical skills and contribute to real-world data projects.
+</p>
+
+<p align="center">
+  <i>Every query, every chart, every project brings me closer to my dream! 💜</i>
+</p>
+
+
+<p align="center">
+  <i>Every query, every chart, every project brings me closer to my dream! 💜</i>
+</p>
+
+
+
 <p align="center">
   <i>Every skill learned is a step towards my Data Analyst career. 💜</i>
 </p>
