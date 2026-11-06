@@ -12,6 +12,9 @@
 - 🌱 Improving my technical and communication skills
 
 ### 💻 My Learning Skills
+<p align="left">
+<img src="https://skillicons.dev/icons?i=excel,mysql,python,vscode,github" />
+</p>
 
 - Microsoft Excel
 - SQL
