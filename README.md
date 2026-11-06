@@ -141,3 +141,22 @@
   <img src="https://img.shields.io/badge/Continuous_Learning-Active-00C8D7?style=for-the-badge"/>
 </p>
 
+<h2 align="center">🚀 PROJECT SHOWCASE</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h3>🛒 FreshMart Dashboard</h3>
+<p>Excel | Data Cleaning | Pivot Tables | Dashboard</p>
+<a href="https://github.com/p05158442-droid/Freshmart-Excel-Dashboard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<h3>📊 More Projects Coming Soon</h3>
+<p>SQL | Python | Power BI</p>
+<img src="https://img.shields.io/badge/IN_PROGRESS-FF69B4?style=for-the-badge"/>
+</td>
+</tr>
+</table>
