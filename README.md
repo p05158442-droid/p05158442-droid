@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="pavani-banner.png" width="100%">
+</p>
 ## Hi there 👋
 # 💜 Hi, I'm Pavani Naralasetty!
 
