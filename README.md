@@ -129,9 +129,15 @@
 </p>
 
 
-
-<h2 align="center">📈 MY CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">💜 TOOLS & TECHNOLOGIES</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p05158442-droid&bg_color=171329&color=DA8BFF&line=FF70C8&point=8CEBFA&area=true&hide_border=true&custom_title=Pavani's%20GitHub%20Activity" width="100%" />
+  <img src="https://skillicons.dev/icons?i=excel,mysql,python,powerbi,github,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analysis-Learning-9B59B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-Growing-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Continuous_Learning-Active-00C8D7?style=for-the-badge"/>
+</p>
+
